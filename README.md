@@ -4,7 +4,7 @@
 
 ## :four_leaf_clover: JIWONEee :four_leaf_clover:
 **Web publisher / Front-End Developer** <br/>
-<p>웹퍼블리셔로 시작해, 사용자 경험 중심의 프론트엔드 개발을 이어가고 있습니다.</p>
+웹퍼블리셔로 시작해, 사용자 경험 중심의 프론트엔드 개발을 이어가고 있습니다.
 
 <br/><br/>
 ### Experiences
