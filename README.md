@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FFE1C6,50:FFC7B8,100:FFF0D8&text=JIWONee&section=header&fontSize=56&fontAlign=80&fontAlignY=35&desc=Web%20publisher%20/%20Front-End%20Developer&descSize=16&descAlignY=53&descAlign=78&fontColor=5A3E36)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FFE1C6,50:FFC7B8,100:FFF0D8&text=JIWON's%20GitHub&fontColor=5A3E36&fontSize=36&fontAlign=79&fontAlignY=32&animation=twinkling&desc=Web%20publisher%20/%20Front-End%20Developer&descSize=11&descAlign=83&descAlignY=50)
 
 <h4>안녕하세요, 개발자 이지원입니다 😊</h4>
 <br/>
@@ -22,5 +22,5 @@
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=F2CBB8&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=90&color=F2CBB8&section=footer)
 </div>
