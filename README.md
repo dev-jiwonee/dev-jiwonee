@@ -1,9 +1,14 @@
-<div align="center">
+ 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FFE1C6,50:FFC7B8,100:FFF0D8&text=JIWON's%20GitHub&fontColor=5A3E36&fontSize=36&fontAlign=79&fontAlignY=28&animation=twinkling&desc=Web%20publisher%20/%20Front-End%20Developer&descSize=11&descAlign=83&descAlignY=48)
 
-### :four_leaf_clover: 안녕하세요, 개발자 이지원입니다.
-웹퍼블리셔로 시작해, 사용자 경험 중심의 프론트엔드 개발을 이어가고 있습니다.
+## :four_leaf_clover: JIWONEee :four_leaf_clover:
+**Web publisher / Front-End Developer** <br/>
+<sub>웹퍼블리셔로 시작해, 사용자 경험 중심의 프론트엔드 개발을 이어가고 있습니다.</sub>
+
+<br/><br/>
+### Experiences
+웹 퍼블리셔/프론트엔드 개발 (2018.09 ~ 2024.06) 
 
 ### :rocket: Skills
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/gatsby-%23663399.svg?&style=flat-square&logo=gatsby&logoColor=white" /> 
