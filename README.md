@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FFE1C6,50:FFC7B8,100:FFF0D8&text=JIWON's%20GitHub&fontColor=5A3E36&fontSize=36&fontAlign=79&fontAlignY=32&animation=twinkling&desc=Web%20publisher%20/%20Front-End%20Developer&descSize=11&descAlign=83&descAlignY=50)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FFE1C6,50:FFC7B8,100:FFF0D8&text=JIWON's%20GitHub&fontColor=5A3E36&fontSize=36&fontAlign=79&fontAlignY=28&animation=twinkling&desc=Web%20publisher%20/%20Front-End%20Developer&descSize=11&descAlign=83&descAlignY=48)
 ### 🍀 안녕하세요, 개발자 이지원입니다.
 
 <br/><br/>
