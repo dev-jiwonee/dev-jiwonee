@@ -5,8 +5,6 @@
 ### :four_leaf_clover: 안녕하세요, 개발자 이지원입니다.
 웹퍼블리셔로 시작해, 사용자 경험 중심의 프론트엔드 개발을 이어가고 있습니다.
 
----  
-
 ### :rocket: Skills
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/gatsby-%23663399.svg?&style=flat-square&logo=gatsby&logoColor=white" /> 
 <br/>
