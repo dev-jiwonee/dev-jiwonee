@@ -8,7 +8,7 @@
 *웹퍼블리셔로 시작해, 사용자 경험 중심의 프론트엔드 개발을 이어가고 있습니다.*
 <br/><br/>
 ###  :sparkles: Experiences
-:computer: (주)INSAND - web publisher/Front-End Developer<br/>
+:computer: (주)INSAND - Web publisher / Front-End Developer<br/>
 <sup>2018.09~2024.05</sup><br/>
 🇯🇵 Working Holiday<br/>
 <sup>2024.06 ~ 2025.05 </sup>
