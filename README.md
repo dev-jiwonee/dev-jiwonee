@@ -22,7 +22,7 @@
 ### :love_letter: Contact me
 [![gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev-jiwonee@gmail.com)
 [![notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://dev-jiwonee.notion.site/2327317c91108012aa7ad211a7848e71)
-[![github](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)]()
+[![github](https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-jiwonee)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=90&color=F2CBB8&section=footer)
